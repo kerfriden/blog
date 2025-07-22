@@ -26,3 +26,7 @@ On this website, you will find posts related to my group's research and scientif
 ## 📚 Scientific Publications
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=EV2wmsgAAAAJ&view_op=list_works&sortby=pubdate)
+
+## You can reach me at:
+📧 pierre.kerfriden at minesparis.psl dot eu
+💼 LinkedIn
