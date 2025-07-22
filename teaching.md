@@ -49,21 +49,20 @@ permalink: /teaching/
 
 ## 🤖 AI Week @ PSL University
 
-- [📄 Intro to AI in Engineering Sciences](https://1drv.ms/b/s!AjM6vw3llOZ-jrxTWMqCm8yiqEtp3Q)
-- [📄 AI Week](https://1drv.ms/b/s!AjM6vw3llOZ-jvVCVnD_6MrBOAP8lQ)
+[📄 AI Week](https://1drv.ms/b/s!AjM6vw3llOZ-jvVCVnD_6MrBOAP8lQ)
 
 ---
 
 ## 🧬 Convolutional Neural Networks @ Mines Albi
 
-[📄 CNN Materials](https://onedrive.live.com/?authkey=%21ACKCg1ApHZEr7OA&cid=7EE694E50DBF3A33&id=7EE694E50DBF3A33%21243416&parId=7EE694E50DBF3A33%21243342&o=OneUp)
+[📄 CNNs](https://onedrive.live.com/?authkey=%21ACKCg1ApHZEr7OA&cid=7EE694E50DBF3A33&id=7EE694E50DBF3A33%21243416&parId=7EE694E50DBF3A33%21243342&o=OneUp)
 
 ---
 
 ## 🧠 Physics-Informed Neural Networks
 
-[📄 CNN Materials](https://1drv.ms/b/s!AjM6vw3llOZ-j6VMnPkesFFN7sZKGQ?e=RBjEOt)
+[📄 PINNs](https://1drv.ms/b/s!AjM6vw3llOZ-j6VMnPkesFFN7sZKGQ?e=RBjEOt)
 
 ## Brief introduction to AI in engineering sciences
 
-[link](https://1drv.ms/b/s!AjM6vw3llOZ-jrxTWMqCm8yiqEtp3Q)
+[📄 AI in engineering](https://1drv.ms/b/s!AjM6vw3llOZ-jrxTWMqCm8yiqEtp3Q)
