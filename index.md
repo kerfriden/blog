@@ -20,7 +20,7 @@ On this website, you will find posts related to my group's research and scientif
 ## 📚 Other links
 
 - [Centre des Matériaux](https://www.linkedin.com/company/centre-des-materiaux-mines-paris/?viewAsMember=true)
-- [My old website 🤮](https://computationalengin.blogspot.com/)
+- [My old website 😖](https://computationalengin.blogspot.com/)
 
 ## 📚 Latest Posts
 
