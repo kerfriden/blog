@@ -11,7 +11,6 @@ This is a simple blog built with **Jekyll** and hosted on **GitHub Pages**.
 
 - [Teaching](/blog/teaching/)
 - [Contact](/blog/contact/)
-%- [Blog](/) <!-- Your posts are listed on homepage --
 
 ## 📚 Latest Posts
 
