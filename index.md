@@ -11,7 +11,7 @@ On this website, you will find posts related to my group's research and scientif
 
 - [Teaching](/blog/teaching/)
 - [About](/blog/about/)
-- [Contact](/blog/contact/)
+- [Job Offers](/blog/job_offers/)
 
 ## 📚 Scientific Publications
 
