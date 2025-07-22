@@ -7,6 +7,12 @@ title: Home
 
 This is a simple blog built with **Jekyll** and hosted on **GitHub Pages**.
 
+## 📁 Pages
+
+- [About](/about/)
+- [Contact](/contact/)
+- [Blog](/) <!-- Your posts are listed on homepage --
+
 ## 📚 Latest Posts
 
 <ul>
