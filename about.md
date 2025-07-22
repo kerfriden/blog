@@ -9,7 +9,8 @@ permalink: /about/
 <img src="{{ site.baseurl }}/assets/images/id2.png" alt="Description of the image" width="200" height="auto">
 </div>
 
-
+<br>
+<br>
 
 # 🎓 Position
 
