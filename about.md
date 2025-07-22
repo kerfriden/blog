@@ -10,7 +10,6 @@ permalink: /about/
 </div>
 
 <br>
-<br>
 
 # 🎓 Position
 
