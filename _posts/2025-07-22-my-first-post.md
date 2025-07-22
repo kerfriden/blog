@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "My First Post"
+title: "First post on new website"
 date: 2024-07-22
+categories: general
 ---
 
 Hello! 👋
