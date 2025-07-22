@@ -24,8 +24,8 @@ On this website, you will find posts related to my group's research and scientif
 
 ## You can reach me at:
 
-📧 pierre.kerfriden at minesparis.psl dot eu
-💼 LinkedIn
+- 📧 pierre.kerfriden at minesparis.psl dot eu
+- 💼 [LinkedIn](https://www.linkedin.com/in/pierrekerfriden/?originalSubdomain=fr)
 
 ## 📚 Latest Posts
 
