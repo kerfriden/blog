@@ -22,3 +22,7 @@ On this website, you will find posts related to my group's research and scientif
     </li>
   {% endfor %}
 </ul>
+
+## 📚 Scientific Publications
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=EV2wmsgAAAAJ&hl=en)
