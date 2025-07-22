@@ -9,8 +9,8 @@ On this website, you will find posts related to my group's research and scientif
 
 ## 📁 Pages
 
-- [Teaching](/blog/teaching/)
 - [About](/blog/about/)
+- [Teaching](/blog/teaching/)
 - [Job Offers](/blog/job_offers/)
 
 ## 📚 Scientific Publications
