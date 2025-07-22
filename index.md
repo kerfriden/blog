@@ -3,13 +3,14 @@ layout: default
 title: Home
 ---
 
-# 📝 Welcome to My Blog
+# 📝 Welcome to my Professional Blog
 
-This is a simple blog built with **Jekyll** and hosted on **GitHub Pages**.
+On this website, you will find posts related to my group's research and scientific activity, as well as links to teaching material
 
 ## 📁 Pages
 
 - [Teaching](/blog/teaching/)
+- [About](/blog/about/)
 - [Contact](/blog/contact/)
 
 ## 📚 Latest Posts
