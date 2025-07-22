@@ -1,3 +1,3 @@
-Pierre Kerfriden's personal website
+[Pierre Kerfriden's personal website](https://kerfriden.github.io/blog/)
 
-[Lien](https://kerfriden.github.io/blog/)
+
