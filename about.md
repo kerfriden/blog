@@ -9,6 +9,7 @@ permalink: /about/
 <img src="{{ site.baseurl }}/assets/images/id2.png" alt="Description of the image" width="200" height="auto">
 </div>
 
+
 # 🎓 Position
 
 I have been a Professor at Mines Paris - PSL since 2019. Prior to this position, I served as a Lecturer at Cardiff University in the UK from 2009 to 2019.
