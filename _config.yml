@@ -1,3 +1,4 @@
 title: My Jekyll Blog
 description: A simple blog using Jekyll and GitHub Pages
 theme: jekyll-theme-minimal
+baseurl: "/blog"
