@@ -62,4 +62,4 @@ permalink: /teaching/
 
 ## 🧠 Physics-Informed Neural Networks
 
-- [📄 PINNs]([https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fb%2Fs%21AjM6vw3llOZ-j6VMnPkesFFN7sZKGQ%3Fe%3DRBjEOt](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvcyFBak02dnczbGxPWi1qNlZNblBrZXNGRk43c1pLR1E%5FZT1SQmpFT3Q&cid=7EE694E50DBF3A33&id=7EE694E50DBF3A33%21250572&parId=7EE694E50DBF3A33%21250539&o=OneUp))
+- [📄 CNN Materials](https://onedrive.live.com/?authkey=%21ACKCg1ApHZEr7OA&cid=7EE694E50DBF3A33&id=7EE694E50DBF3A33%21243416&parId=7EE694E50DBF3A33%21243342&o=OneUp)
