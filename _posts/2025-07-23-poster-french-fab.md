@@ -3,6 +3,7 @@ layout: post
 title: "French Fab Poster presented at Mines Paris Research Day"
 date: 2024-07-23
 categories: AI, Computational Mechanics
+tags: [French Fab,Finite Element]
 author: P. Kerfriden
 ---
 
