@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![id]({{ site.baseurl }}/assets/images/id2.png)
+<img src="{{ site.baseurl }}/assets/images/id2.png" alt="Description of the image" width="500" height="auto">
 
 # 🎓 Position
 
