@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "First post on new website"
-date: 2024-07-22
-categories: general
+title: "French Fab Poster presented at Mines Paris Research Day"
+date: 2024-07-23
+categories: AI, Computational Mechanics
 author: P. Kerfriden
 ---
 
-Hello! 👋
+<embed src="blog/assets/images/french_fab_poster.pdf" width="600" height="400" type="application/pdf">
 
-This is my **first blog post** written in Markdown.
-
-Stay tuned for more!
+<iframe src="blog/assets/images/french_fab_poster.pdf" width="100%" height="500px">
+</iframe>
