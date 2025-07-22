@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# Position
+# 🎓 Position
 
 I have been a Professor at Mines Paris - PSL since 2019. Prior to this position, I served as a Lecturer at Cardiff University in the UK from 2009 to 2019.
 
