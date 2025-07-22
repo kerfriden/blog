@@ -10,27 +10,27 @@ permalink: /teaching/
 
 ## 🧪 Experimental Mechanics @ Mines Paris
 
-- [📄 Experimental Mechanics (PDF)](https://1drv.ms/b/s!AjM6vw3llOZ-juAaNfBsZMDTp9MIPQ?e=6MjYqD)
+[📄 Experimental Mechanics (PDF)](https://1drv.ms/b/s!AjM6vw3llOZ-juAaNfBsZMDTp9MIPQ?e=6MjYqD)
 
 ---
 
 ## 🧮 Nonlinear Computational Mechanics (ATHENS MP06)
 
 ### Linear FEA
-- [📄 Linear FEA Notes](https://1drv.ms/b/s!AjM6vw3llOZ-i7YQB0fAgby8fOfL4g)
+[📄 Linear FEA Notes](https://1drv.ms/b/s!AjM6vw3llOZ-i7YQB0fAgby8fOfL4g)
 
 ### Nonlinear FEA
-- [📄 Nonlinear FEA Notes](https://1drv.ms/b/s!AjM6vw3llOZ-i5dUYh-0_iEKJlaLXA)
+[📄 Nonlinear FEA Notes](https://1drv.ms/b/s!AjM6vw3llOZ-i5dUYh-0_iEKJlaLXA)
 
 ---
 
 ## 🧠 IDSC @ Mines Paris
 
 ### Inverse Problems & PINNs
-- [📄 Inverse Problems and Physics-Informed Neural Networks](https://1drv.ms/b/s!AjM6vw3llOZ-i9ontPMPQmn6ibtMCw?e=SrYbQX)
+[📄 Inverse Problems and Physics-Informed Neural Networks](https://1drv.ms/b/s!AjM6vw3llOZ-i9ontPMPQmn6ibtMCw?e=SrYbQX)
 
 ### Geometric Learning with GNNs
-- [📄 Graph Neural Networks](https://1drv.ms/b/s!AjM6vw3llOZ-jqltsbDdeAMidrr97w)
+[📄 Graph Neural Networks](https://1drv.ms/b/s!AjM6vw3llOZ-jqltsbDdeAMidrr97w)
 
 ---
 
@@ -56,10 +56,14 @@ permalink: /teaching/
 
 ## 🧬 Convolutional Neural Networks @ Mines Albi
 
-- [📄 CNN Materials](https://onedrive.live.com/?authkey=%21ACKCg1ApHZEr7OA&cid=7EE694E50DBF3A33&id=7EE694E50DBF3A33%21243416&parId=7EE694E50DBF3A33%21243342&o=OneUp)
+[📄 CNN Materials](https://onedrive.live.com/?authkey=%21ACKCg1ApHZEr7OA&cid=7EE694E50DBF3A33&id=7EE694E50DBF3A33%21243416&parId=7EE694E50DBF3A33%21243342&o=OneUp)
 
 ---
 
 ## 🧠 Physics-Informed Neural Networks
 
-- [📄 CNN Materials](https://1drv.ms/b/s!AjM6vw3llOZ-j6VMnPkesFFN7sZKGQ?e=RBjEOt)
+[📄 CNN Materials](https://1drv.ms/b/s!AjM6vw3llOZ-j6VMnPkesFFN7sZKGQ?e=RBjEOt)
+
+## Brief introduction to AI in engineering sciences
+
+[link](https://1drv.ms/b/s!AjM6vw3llOZ-jrxTWMqCm8yiqEtp3Q)
