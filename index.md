@@ -17,6 +17,11 @@ On this website, you will find posts related to my group's research and scientif
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=EV2wmsgAAAAJ&view_op=list_works&sortby=pubdate)
 
+## 📚 Liens divers
+
+- [My previous website](https://computationalengin.blogspot.com/)
+- [Centre des Matériaux](https://www.linkedin.com/company/centre-des-materiaux-mines-paris/?viewAsMember=true)
+
 ## You can reach me at:
 
 📧 pierre.kerfriden at minesparis.psl dot eu
