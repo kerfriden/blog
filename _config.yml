@@ -2,6 +2,7 @@ title: "P. Kerfriden | Computational Mechanics & AI"
 description: "Research, teaching, and thoughts on nonlinear mechanics, simulation, and machine learning in engineering."
 
 url: "https://kerfriden.github.io"
+baseurl: ""  # empty string
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
