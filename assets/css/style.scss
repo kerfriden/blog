@@ -15,5 +15,7 @@ header {
 }
 
 section {
-  margin-left: 0;
+  max-width: 1000px; // or 1200px if you want it even wider
+  margin: 0 auto;
+  padding: 2rem;
 }
