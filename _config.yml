@@ -16,8 +16,10 @@ navigation:
     url: /
   - title: About
     url: /about/
-  - title: Contact
-    url: /contact/
+  - title: Teaching
+    url: /teaching/
+  - title: Job Offers
+    url: /job-offers/
 
 # Optional: display navigation
 show_nav: true
