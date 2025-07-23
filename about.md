@@ -7,11 +7,13 @@ permalink: /about/
 
 ## 🎓 Position
 
-I have been a Professor at Mines Paris - PSL since 2019. Prior to this position, I served as a Lecturer at Cardiff University in the UK from 2009 to 2019.
+I am a Professor of Computational Mechanics at Mines Paris, where I have been teaching and conducting research since 2019. Prior to this position, I served as a Lecturer at Cardiff University in Wales, UK from 2009 to 2019. 
 
+<br>
 <div style="text-align: center;">
 <img src="{{ site.baseurl }}/assets/images/id2.png" alt="Description of the image" width="150" height="auto">
 </div>
+<br>
 
 
 ## 🧩 Scientific Interests
