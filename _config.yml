@@ -4,4 +4,4 @@ description: Research, teaching, and thoughts on nonlinear mechanics, simulation
 theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 baseurl: "/blog"
-logo: /assets/images/logo.png
+//logo: /assets/images/logo.png
