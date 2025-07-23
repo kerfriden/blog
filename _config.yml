@@ -20,8 +20,8 @@ navigation:
     url: /
   - title: About
     url: /about/
-  - title: Teaching
-    url: /teaching/
+  - title: Blog
+    url: /blog/
   - title: Contact
     url: /contact/
 
