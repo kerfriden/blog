@@ -23,6 +23,10 @@ author:
 navigation:
   - title: Home
     url: /
+  - title: Teaching
+    url: /teaching/
+  - title: Job Offers
+    url: /job-offers/
   - title: About
     url: /about/
 
