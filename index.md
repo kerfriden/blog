@@ -12,7 +12,6 @@ On this website, you will find posts related to my group's research and scientif
 - [About](/about/)
 - [Teaching](/teaching/)
 - [Job Offers](/job-offers/)
-- tototiti
 
 ## 📚 Scientific Publications
 
