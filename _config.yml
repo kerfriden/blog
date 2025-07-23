@@ -3,5 +3,5 @@ description: "Research, teaching, and thoughts on nonlinear mechanics, simulatio
 
 theme: jekyll-theme-minimal
 
-baseurl: ""       # if your site is user.github.io, baseurl should be empty
-url: "https://kerfriden.github.io"  # your actual URL
+baseurl: ""      
+url: "https://kerfriden.github.io"  
