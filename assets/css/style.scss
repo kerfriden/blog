@@ -3,27 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/*
-header {
-  width: 100%;
-  float: none;
-  position: relative; // or 'sticky' if you want it to stay at top while scrolling
-  top: 0;
-  left: 0;
-  z-index: 100;
-  background: #fff;
-  padding: 1rem 0;
-}
-*/
-
-/*
-section {
-  max-width: 1000px; // or 1200px if you want it even wider
-  margin: 0 auto;
-  padding: 2rem;
-}
-*/
-
  section {
   width:1000px;
   float:right;
