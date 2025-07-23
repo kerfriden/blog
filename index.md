@@ -7,12 +7,14 @@ title: Home
  
 On this website, you will find posts related to my group's research and scientific activities, as well as links to reasearch and teaching material that you may find useful 
 
+<!--
 ## 📁 Pages 
  
 - [About](/about/)
 - [Contact](/contact/)
 - [Teaching](/teaching/)
 - [Job Offers](/job-offers/)
+-->
 
 ## 📚 Scientific Publications
 
