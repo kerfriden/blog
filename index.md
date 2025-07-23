@@ -12,7 +12,7 @@ On this website, you will find posts related to my group's research and scientif
 
 - [About](/blog/about/)
 - [Teaching](/blog/teaching/)
-- [Job Offers](/blog/job_offers/)
+- [Job Offers](/blog/job-offers/)
 
 ## 📚 Scientific Publications
 
