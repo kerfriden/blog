@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# 🎓 Course Materials @ Mines Paris & Affiliates
+## 🎓 Course Materials @ Mines Paris & Affiliates
 
 ---
 
