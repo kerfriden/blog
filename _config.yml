@@ -4,7 +4,7 @@ description: "Research, teaching, and thoughts on nonlinear mechanics, simulatio
 url: "https://kerfriden.github.io"
 baseurl: ""  # empty string
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: mmistakes/minimal-mistakes@4.15.2
 
 plugins:
   - jekyll-remote-theme
