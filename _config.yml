@@ -5,6 +5,7 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-include-cache
 baseurl: "/blog"
+url: "https://username.github.io"
 #logo: /assets/images/logo.png
 
 # Author (optional, useful for author profiles)
