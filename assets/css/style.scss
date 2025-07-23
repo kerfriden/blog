@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+<!--
 header {
   width: 100%;
   float: none;
@@ -13,15 +14,18 @@ header {
   background: #fff;
   padding: 1rem 0;
 }
+-->
 
+<!--
 section {
   max-width: 1000px; // or 1200px if you want it even wider
   margin: 0 auto;
   padding: 2rem;
 }
+-->
 
-<!-- section {
-  width:500px;
+ section {
+  width:1000px;
   float:right;
   padding-bottom:50px;
-} -->
+} 
