@@ -10,7 +10,7 @@ plugins:
   - jekyll-seo-tag
   
 #baseurl: "/blog"
-url: "https://kerfriden.github.io"
+url: "https://kerfriden.github.io/blog/"
 #logo: /assets/images/logo.png
 
 # Author (optional, useful for author profiles)
