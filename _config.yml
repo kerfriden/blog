@@ -9,7 +9,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   
-baseurl: "/blog"
+#baseurl: "/blog"
 url: "https://kerfriden.github.io"
 #logo: /assets/images/logo.png
 
