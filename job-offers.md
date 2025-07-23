@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Job Offers
-permalink: /job_offers/
+permalink: /job-offers/
 ---
 
 ## 🎓 PhD Opportunities – Starting October 1, 2025
