@@ -20,10 +20,5 @@ navigation:
   - title: Contact
     url: /contact/
 
-author:
-  name: "Pierre Kerfriden"
-  avatar: "/assets/images/logo.png"
-  bio: "Researcher."
-
 # Optional: display navigation
 show_nav: true
