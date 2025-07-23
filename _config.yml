@@ -1,37 +1,29 @@
-title: P. Kerfriden | Computational Mechanics & AI
-description: Research, teaching, and thoughts on nonlinear mechanics, simulation, and machine learning in engineering.
+title: "P. Kerfriden | Computational Mechanics & AI"
+description: "Research, teaching, and thoughts on nonlinear mechanics, simulation, and machine learning in engineering."
 
-#theme: jekyll-theme-minimal
+url: "https://kerfriden.github.io"
+baseurl: "/blog" # because your repo is https://kerfriden.github.io/blog/
+
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  
-#baseurl: "/blog"
-url: "https://kerfriden.github.io/blog/"
-#logo: /assets/images/logo.png
 
-# Author (optional, useful for author profiles)
-author:
-  name: "Pierre Kerfriden"
-  avatar: "/assets/images/logo.png"   # Put your avatar in assets/images
-  bio: "Researcher."
-
-# Navigation (customize menu links)
 navigation:
   - title: Home
     url: /
-  - title: Teaching
-    url: /teaching/
-  - title: Job Offers
-    url: /job-offers/
   - title: About
     url: /about/
+  - title: Contact
+    url: /contact/
 
+author:
+  name: "Pierre Kerfriden"
+  avatar: "/assets/images/logo.png"
+  bio: "Researcher."
+
+# Optional: display navigation
 show_nav: true
-
-# Social links (optional)
-social:
-  linkedin: kerfriden
