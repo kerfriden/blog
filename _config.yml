@@ -1,6 +1,8 @@
 title: P. Kerfriden | Computational Mechanics & AI
 description: Research, teaching, and thoughts on nonlinear mechanics, simulation, and machine learning in engineering.
 //theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
 them: minimal-mistakes-jekyll
 baseurl: "/blog"
 logo: /assets/images/logo.png
