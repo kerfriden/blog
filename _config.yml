@@ -12,3 +12,20 @@ author:
   name: "Pierre Kerfriden"
   avatar: "/assets/images/logo.png"   # Put your avatar in assets/images
   bio: "Researcher."
+
+# Navigation (customize menu links)
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Teaching
+    url: /teaching/
+  - title: Contact
+    url: /contact/
+
+# Social links (optional)
+social:
+  github: kerfriden
+  twitter: kerfriden
+  linkedin: kerfriden
