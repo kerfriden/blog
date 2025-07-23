@@ -25,6 +25,8 @@ navigation:
   - title: Contact
     url: /contact/
 
+hide_navigation: false
+
 # Social links (optional)
 social:
   linkedin: kerfriden
