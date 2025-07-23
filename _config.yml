@@ -1,7 +1,7 @@
 title: "P. Kerfriden | Computational Mechanics & AI"
 description: "Research, teaching, and thoughts on nonlinear mechanics, simulation, and machine learning in engineering."
 
-theme: jekyll-minimal
+theme: jekyll-theme-minimal
 
 baseurl: ""       # if your site is user.github.io, baseurl should be empty
 url: "https://kerfriden.github.io"  # your actual URL
