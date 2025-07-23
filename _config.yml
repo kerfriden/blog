@@ -6,3 +6,9 @@ plugins:
   - jekyll-include-cache
 baseurl: "/blog"
 #logo: /assets/images/logo.png
+
+# Author (optional, useful for author profiles)
+author:
+  name: "Pierre Kerfriden"
+  avatar: "/assets/images/logo.png"   # Put your avatar in assets/images
+  bio: "Researcher."
