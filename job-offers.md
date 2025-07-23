@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Job Offers
 permalink: /job-offers/
 ---
