@@ -19,36 +19,6 @@
   padding: 0;
 }
 
-/* Float header left at large screen sizes */
-@media screen and (min-width: 960px) {
-  
-  header {
-    float: left;
-    width: 300px;
-    box-sizing: border-box;
-  }
-
-  section {
-    margin-left: 320px;
-    padding: 2rem;
-    box-sizing: border-box;
-    /* no max-width, no fixed width */
-  }
-
-  section > * {
-    margin-left: 0;
-    margin-right: 0;
-    text-align: left;
-    /* remove: max-width or narrow-content */
-  }
-  
-  .narrow-content {
-    max-width: 600px;
-    margin: 0 auto;
-    text-align: left;
-  }
-  
-}
 
 @media screen and (max-width: 960px) {
   header, .wrapper {
