@@ -9,6 +9,6 @@ author: P. Kerfriden
 
 Hello! 👋
 
-This is my **first blog post** written in Markdown.
+This is my **first blog post** on a new website with a minimalistic and clean design.
 
 Stay tuned for more!
