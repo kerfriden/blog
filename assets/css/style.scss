@@ -3,24 +3,6 @@
 
 @import "jekyll-theme-minimal";
 
-.wrapper {
-  max-width: none;
-  width: 100%;
-  padding: 0 1rem;
-  box-sizing: border-box;
-}
-
-section {
-  flex: 1;
-  max-width: 1200px;       /* or whatever you want */
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;      /* center it */
-  padding: 0rem 1rem;
-  padding-top: 1rem; /* or whatever spacing you want */
-  box-sizing: border-box;
-}
-
 .page-links {
   display: flex;
   flex-direction: column; /* default vertical */
