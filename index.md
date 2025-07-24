@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## 🏠 Welcome! 
+## 🏠 Welcome!  
  
 On this website, you will find posts related to my group's research and scientific activities, as well as links to reasearch and teaching material that you may find useful 
 
