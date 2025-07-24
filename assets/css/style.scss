@@ -21,14 +21,16 @@
     align-items: center; /* ensures vertical centering */
   }
 
-  .page-links {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    gap: 1rem;
-    margin: 0; /* remove default paragraph margins */
-    padding: 0;
-  }
+.page-links {
+  flex: 1;  /* takes all available space */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
   
   .page-links a {
     white-space: nowrap;
