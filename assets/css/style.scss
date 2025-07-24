@@ -12,26 +12,27 @@
 @media screen and (max-width: 960px) {
   #site-logo {
     display: none;
-    /* Optionally, adjust header layout to re-center title */
   }
-  
+
   .site-header {
     display: flex;
     justify-content: flex-end;
-    align-items: center; /* ensures vertical centering */
-    width: 100%; /* ensure full width */
+    align-items: center;
+    width: 100%;
+    padding: 0 1rem; /* optional, add some side padding */
   }
 
   .page-links {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: flex-end;
     gap: 1rem;
     margin: 0;
     padding: 0;
+    /* Added: make sure page-links doesn't grow or shrink */
+    flex: 0 0 auto;
+    justify-content: flex-end;
   }
-  
+
   .page-links a {
     white-space: nowrap;
   }
