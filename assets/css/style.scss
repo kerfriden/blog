@@ -11,10 +11,11 @@
 }
 
 section {
-  max-width: 1600px;
+  max-width: 1200px;       /* or whatever you want */
+  width: 100%;
   margin-left: auto;
-  margin-right: auto;
-  padding: 0 1rem;
+  margin-right: auto;      /* center it */
+  padding: 2rem 1rem;
   padding-top: 1rem; /* or whatever spacing you want */
   box-sizing: border-box;
 }
