@@ -3,5 +3,5 @@ description: "Material Modelling, Probabilistic Numerics & Machine Learning"
 
 theme: jekyll-theme-minimal
 
-baseurl: ""      
+baseurl: "" 
 url: "https://kerfriden.github.io"  
