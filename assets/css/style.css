@@ -4,14 +4,13 @@
 @import "jekyll-theme-minimal";
 
 
-
+/*
 .wrapper {
   max-width: 1200px; /* or 100%, or any wider pixel value */
   width: 90%;        /* responsive width */
   margin: 0 auto;
 }
 
-/*
 header {
   width:270px;
   float:left;
