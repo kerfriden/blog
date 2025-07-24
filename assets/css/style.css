@@ -4,10 +4,7 @@
 @import "jekyll-theme-minimal";
 
 
-.page-links {
-  background: lightyellow;
-  border: 2px solid red;
-}
+
 
 .page-links {
   display: flex;
@@ -50,4 +47,9 @@
   .page-links a {
     white-space: nowrap;
   }
+}
+
+.page-links {
+  background: lightyellow;
+  border: 2px solid red;
 }
