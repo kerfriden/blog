@@ -14,7 +14,9 @@
   padding: 0;
 }
 
-
+.page-links a {
+  display: block;  /* ensures vertical stack */
+}
 
 @media screen and (max-width: 960px) {
 
