@@ -20,9 +20,9 @@ header {
 }
 
 section {
-  width:700px;
-  float:right;
-  padding-bottom:50px;
+  margin-left: 270px; /* same as header width */
+  width: calc(100% - 270px); /* take remaining space */
+  padding-bottom: 50px;
 }
 
 
