@@ -19,10 +19,10 @@
     display: flex;
     justify-content: flex-end;
     align-items: center; /* ensures vertical centering */
+    width: 100%; /* ensure full width */
   }
 
   .page-links {
-    flex: 1;  /* takes all available space */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
