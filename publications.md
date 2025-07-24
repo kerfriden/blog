@@ -10,6 +10,8 @@ permalink: /publications/
 
 ## Journal articles
 
+<small>
+
 1.	A Touminet, S Cantournet, V Fabre, P Kerfriden, A Bayesian extension to FEMU for Identification of spatially varying stochastic elastic properties from digital image and volume correlation measurements, Journal of Computational Physics, 2025
 
 2.	M Lamari, P Kerfriden, OU Salman, V Yastrebov, K Ammar, S Forest, A time-discontinuous elasto-plasticity formalism to simulate instantaneous plastic flow bursts, International Journal of Solids and Structures, 2025
@@ -169,4 +171,8 @@ permalink: /publications/
 79.	O. Allix, P. Kerfriden, P. Gosselet, On the control of the load increments for a proper description of multiple delamination in a domain decomposition framework, International Journal for Numerical Methods in Engineering, 83 (11), 1518-1540, 2010
 
 80.	P. Kerfriden, O. Allix, P. Gosselet, A three-scale domain decomposition method for the 3D analysis of debonding in laminates, Computational Mechanics, 44 (3), 343-362, 2009
+
+</small>
+
+## Conference abstracts (non-exhaustive)
 
