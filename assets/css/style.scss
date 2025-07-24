@@ -8,4 +8,8 @@
     display: none;
     /* Optionally, adjust header layout to re-center title */
   }
+    .site-header {
+    display: flex;
+    justify-content: center;
+  }
 }
