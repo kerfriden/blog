@@ -5,6 +5,3 @@ permalink: /contact/
 ---
 
 ## ✉️ Get in touch
-
-Contact  
-
