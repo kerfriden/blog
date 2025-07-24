@@ -3,9 +3,6 @@
 
 @import "jekyll-theme-minimal";
 
-
-
-
 .page-links {
   display: flex;
   flex-direction: column; /* default vertical */
@@ -20,7 +17,6 @@
 
 @media screen and (max-width: 960px) {
 
-  
   header, .wrapper {
     width: 100%;
     max-width: 100%;
