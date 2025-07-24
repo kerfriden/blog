@@ -3,10 +3,19 @@
 
 @import "jekyll-theme-minimal";
 
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* logo/title left, links right */
+  flex-wrap: wrap; /* allows wrapping on small screens */
+  gap: 1rem;
+  width: 100%;
+}
+
 .page-links {
   display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
 @media screen and (max-width: 960px) {
@@ -15,25 +24,6 @@
   }
 
   .site-header {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    width: 100%;
-    padding: 0 1rem; /* optional, add some side padding */
-  }
-
-  .page-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin: 0;
-    padding: 0;
-    /* Added: make sure page-links doesn't grow or shrink */
-    flex: 0 0 auto;
-    justify-content: flex-end;
-  }
-
-  .page-links a {
-    white-space: nowrap;
+    justify-content: flex-end; /* push links fully to the right */
   }
 }
