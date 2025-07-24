@@ -10,7 +10,7 @@ On this website, you will find posts related to my group's research and scientif
 <!--
 ## 📁 Pages 
  
-- [About](/about/)
+- [About](/about/) 
 - [Contact](/contact/)
 - [Teaching](/teaching/)
 - [Job Offers](/job-offers/) 
