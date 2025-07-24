@@ -29,8 +29,6 @@
     box-sizing: border-box;
   }
 
-
-  
   #site-logo {
     display: none;
   }
@@ -44,9 +42,14 @@
     gap: 1rem;
   }
 
+  .page-links p {
+    margin: 0; /* ensure no extra margin */
+  }
+
   .page-links a {
     white-space: nowrap;
   }
+  
 }
 
 
