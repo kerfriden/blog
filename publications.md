@@ -10,18 +10,6 @@ permalink: /publications/
 
 ## Journal articles
 
-- A Bayesian extension to FEMU for Identification of spatially varying stochastic elastic properties from digital image and volume correlation measurements
-A Touminet, S Cantournet, V Fabre, P Kerfriden, Journal of Computational Physics, 2025
-
-- A time-discontinuous elasto-plasticity formalism to simulate instantaneous plastic flow bursts
-M Lamari, P Kerfriden, OU Salman, V Yastrebov, K Ammar, S Forest
-International Journal of Solids and Structures,	2025
-
-- A Bayesian approach to modeling finite element discretization error
-A Poot, P Kerfriden, I Rocha, F van der Meer
-Statistics and Computing 34 (5), 167, 2024
-
-
 1.	C Cadet, S Flouriot, S Forest, P Kerfriden, V de Rancourt, Surrogate modeling by multifidelity cokriging for the ductile failure of random microstructures, Computational Mechanics, 2024
 
 2.	V Krokos, SPA Bordas, P Kerfriden, A graph-based probabilistic geometric deep learning framework with online enforcement of physical constraints to predict the criticality of defects in porous materials, International Journal of Solids and Structures, 2024
