@@ -6,7 +6,7 @@
 .page-links {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem; /* space between links */
+  gap: 0.5rem;
 }
 
 @media screen and (max-width: 960px) {
@@ -14,17 +14,23 @@
     display: none;
     /* Optionally, adjust header layout to re-center title */
   }
-    .site-header {
+  
+  .site-header {
     display: flex;
     justify-content: center;
+    align-items: center; /* ensures vertical centering */
   }
+
   .page-links {
     flex-direction: row;
-    flex-wrap: wrap;             /* wrap if not enough space */
-    justify-content: center;     /* center horizontally */
-    gap: 1rem;                   /* adjust spacing */
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin: 0; /* remove default paragraph margins */
+    padding: 0;
   }
+  
   .page-links a {
-    white-space: nowrap;         /* avoid broken links */
+    white-space: nowrap;
   }
 }
