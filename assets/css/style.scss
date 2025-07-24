@@ -45,6 +45,12 @@ section {
     padding-right: 0rem;
     box-sizing: border-box;
   }
+
+  section {
+  margin-left: 0px; /* same as header width */
+  width: calc(100% - 300px); /* take remaining space */
+  padding-bottom: 50px;
+ }
   
   #site-logo {
     display: none;
