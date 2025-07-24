@@ -6,12 +6,10 @@ permalink: /contact/
 
 ## ✉️ Get in touch
 
-<section>
-<p>
-    Contact<br>
-    📥 pierre.kerfriden at minesparis.psl.eu<br> <br>
-    ✉️ Centre des Matériaux - PSL University,<br>
-    21 allée des Marronniers, 78000 Versailles<br> <br>
-    💼 <a href="https://www.linkedin.com/in/pierrekerfriden/?originalSubdomain=fr">LinkedIn</a>
-</p>
-</section>
+Contact  
+📥 pierre.kerfriden at minesparis.psl.eu  
+
+✉️ Centre des Matériaux - PSL University,  
+21 allée des Marronniers, 78000 Versailles  
+
+💼 [LinkedIn](https://www.linkedin.com/in/pierrekerfriden/?originalSubdomain=fr)
