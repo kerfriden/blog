@@ -19,12 +19,12 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-  section {
-    margin-left: 0;
-    width: 100%;
-    padding-top: 1rem; /* optional spacing */
-    padding-bottom: 50px;
-  }
+
+section {
+  margin-left: 300px; /* same as header width */
+  width: calc(100% - 300px); /* take remaining space */
+  padding-bottom: 50px;
+}
 
 
 
