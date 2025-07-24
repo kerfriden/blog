@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-<div class="narrow-content">
-
 ## Get in touch
 
 📥 pierre.kerfriden at minesparis.psl.eu  
@@ -16,5 +14,4 @@ permalink: /contact/
 💼 [LinkedIn](https://www.linkedin.com/in/pierrekerfriden/?originalSubdomain=fr)
 
 
-</div>
 
