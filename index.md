@@ -18,8 +18,8 @@ On this website, you will find posts related to my group's research and scientif
 
 ## 📚 Scientific Publications
 
-[Publication list](/publications/)
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=EV2wmsgAAAAJ&view_op=list_works&sortby=pubdate)
+- [Publication list](/publications/)
+- [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=EV2wmsgAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## 📚 Other links
 
