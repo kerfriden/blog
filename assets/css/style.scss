@@ -12,4 +12,13 @@
     display: flex;
     justify-content: center;
   }
+  .page-links {
+    flex-direction: row;
+    flex-wrap: wrap;             /* wrap if not enough space */
+    justify-content: center;     /* center horizontally */
+    gap: 1rem;                   /* adjust spacing */
+  }
+  .page-links a {
+    white-space: nowrap;         /* avoid broken links */
+  }
 }
