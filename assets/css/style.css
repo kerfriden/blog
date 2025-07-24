@@ -11,7 +11,7 @@
   margin: 0 auto;
 }
 
-
+<!--
 header {
   width:270px;
   float:left;
@@ -19,13 +19,12 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-
 section {
   margin-left: 320px; /* same as header width */
   width: calc(100% - 320px); /* take remaining space */
   padding-bottom: 50px;
 }
-
+-->
 
 
 .page-links {
