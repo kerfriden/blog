@@ -3,6 +3,14 @@
 
 @import "jekyll-theme-minimal";
 
+section {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
 .page-links {
   display: flex;
   flex-direction: column; /* default vertical */
