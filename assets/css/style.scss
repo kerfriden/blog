@@ -3,6 +3,13 @@
 
 @import "jekyll-theme-minimal";
 
+.wrapper {
+  max-width: none;
+  width: 100%;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
 section {
   max-width: 1600px;
   margin-left: auto;
