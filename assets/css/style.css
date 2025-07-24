@@ -4,7 +4,7 @@
 @import "jekyll-theme-minimal";
 
 body {
-  background: red;
+  background: red !important;
 }
 
 @media screen and (max-width: 960px) {
