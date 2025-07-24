@@ -28,7 +28,7 @@
     width: 100%;         /* takes full horizontal space */
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;  /* push links all the way right */
+    justify-content: flex-start;  /* push links all the way right */
     flex-wrap: wrap;
     gap: 1rem;
   }
