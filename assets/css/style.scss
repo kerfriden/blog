@@ -17,14 +17,14 @@
   
   .site-header {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center; /* ensures vertical centering */
   }
 
   .page-links {
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-end;
     gap: 1rem;
     margin: 0; /* remove default paragraph margins */
     padding: 0;
