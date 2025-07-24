@@ -6,6 +6,75 @@
 
 
 .wrapper {
+  max-width: 1200px; /* or 100%, or any wider pixel value */
+  width: 90%;        /* responsive width */
+  margin: 0 auto;
+}
+
+
+header {
+  width:270px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+
+section {
+  margin-left: 320px; /* same as header width */
+  width: calc(100% - 320px); /* take remaining space */
+  padding-bottom: 50px;
+}
+
+
+
+.page-links {
+  display: flex;
+  flex-direction: column; /* default vertical */
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+@media screen and (max-width: 960px) {
+
+  
+  header, .wrapper {
+    width: 100%;
+    max-width: 100%;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    box-sizing: border-box;
+  }
+
+
+  
+  #site-logo {
+    display: none;
+  }
+
+  .page-links {
+    width: 100%;         /* takes full horizontal space */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;  /* push links all the way right */
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .page-links a {
+    white-space: nowrap;
+  }
+}---
+---
+
+@import "jekyll-theme-minimal";
+
+
+
+.wrapper {
   max-width: 1200px;
   width: 90%;
   margin: 0 auto;
