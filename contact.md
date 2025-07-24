@@ -4,10 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-
 ## Get in touch
-
-
 
 📥 pierre.kerfriden at minesparis.psl.eu  
 
@@ -15,3 +12,4 @@ permalink: /contact/
 21 allée des Marronniers, 78000 Versailles  
 
 💼 [LinkedIn](https://www.linkedin.com/in/pierrekerfriden/?originalSubdomain=fr)
+
