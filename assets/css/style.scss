@@ -3,19 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
-.site-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between; /* logo/title left, links right */
-  flex-wrap: wrap; /* allows wrapping on small screens */
-  gap: 1rem;
-  width: 100%;
-}
-
 .page-links {
   display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
+  flex-direction: column; /* default vertical */
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 960px) {
@@ -23,7 +16,14 @@
     display: none;
   }
 
-  .site-header {
-    justify-content: flex-end; /* push links fully to the right */
+  .page-links {
+    flex-direction: row;      /* switch to horizontal */
+    justify-content: flex-end; /* align links to right */
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .page-links a {
+    white-space: nowrap;
   }
 }
