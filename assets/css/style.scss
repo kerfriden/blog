@@ -17,8 +17,10 @@
   }
 
   .page-links {
-    flex-direction: row;      /* switch to horizontal */
-    justify-content: flex-end; /* align links to right */
+    width: 100%;         /* takes full horizontal space */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;  /* push links all the way right */
     flex-wrap: wrap;
     gap: 1rem;
   }
