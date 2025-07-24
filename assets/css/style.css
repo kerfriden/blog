@@ -11,7 +11,7 @@
   margin: 0 auto;
 }
 
-<!--
+/*
 header {
   width:270px;
   float:left;
@@ -24,7 +24,7 @@ section {
   width: calc(100% - 320px); /* take remaining space */
   padding-bottom: 50px;
 }
--->
+*/
 
 
 .page-links {
