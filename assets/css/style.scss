@@ -39,12 +39,20 @@ section {
 
 
 @media screen and (max-width: 960px) {
+
+  
   header, .wrapper {
     width: 100%;
     max-width: 100%;
     padding-left: 0rem;
     padding-right: 0rem;
     box-sizing: border-box;
+  }
+
+  header {
+    position: static; /* or relative */
+    width: 100%;
+    height: auto;
   }
 
   section {
