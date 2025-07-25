@@ -29,7 +29,7 @@ On this website, you will find posts related to my group's research and scientif
 
 ## 📚 Latest posts
 
-{% for post in site.posts limit:2 %}
+{% for post in site.posts limit:15 %}
   <article>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p><small>{{ post.date | date: "%B %-d, %Y" }}</small></p>
