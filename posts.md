@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Posts
+permalink: /posts/
 ---
 
 ## 📚 Latest Posts
