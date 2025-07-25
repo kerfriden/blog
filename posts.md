@@ -7,7 +7,7 @@ permalink: /posts/
 ## 📚 Latest Posts
 
 
-<h2>Latest Posts</h2>
+<h2>Latest posts</h2>
 {% for post in site.posts limit:2 %}
   <article>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -19,6 +19,8 @@ permalink: /posts/
   </article>
 {% endfor %}
 
+
+<h2>All posts</h2>
 <ul>
   {% for post in site.posts %}
     <li>
