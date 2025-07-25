@@ -15,7 +15,7 @@ author: P. Kerfriden
  -->
 
 <iframe
-  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://kerfriden.github.io/assets/pdfs/example.pdf#toolbar=0"
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=/assets/images/poster_french_fab.pdff#toolbar=0"
   width="100%"
   height="600px"
   style="border: none;">
