@@ -13,4 +13,18 @@ body {
   #site-logo {
     display: none !important;
   }
+
+  .page-links {
+    width: 100%;         /* takes full horizontal space */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;  /* push links all the way right */
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .page-links a {
+    white-space: nowrap;
+  }
+  
 }
