@@ -8,13 +8,16 @@ permalink: /posts/
 
 
 <h2>Latest Posts</h2>
-<ul>
-  {% for post in site.posts limit:5 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - <small>{{ post.date | date: "%b %d, %Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts limit:2 %}
+  <article>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p><small>{{ post.date | date: "%B %-d, %Y" }}</small></p>
+    <div>
+      {{ post.content }}
+    </div>
+    <hr>
+  </article>
+{% endfor %}
 
 <ul>
   {% for post in site.posts %}
